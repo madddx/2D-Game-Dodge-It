@@ -50,3 +50,6 @@ I am always open to feedback, collaboration opportunities, and discussions about
 # [LinkedIn](https://www.linkedin.com/in/madheshh/)
 
 ![image](Assets/Image_1.png)
+![image](Assets/Image_2.png)
+![image](Assets/Image_3.png)
+![video](Assets/Video_1.png)
